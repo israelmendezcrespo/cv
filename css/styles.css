@@ -1,0 +1,16 @@
+/*TAG STYLES*/
+
+h1{
+  margin: 0px;
+}
+
+body{
+  margin: 0;
+}
+
+/*CLASS STYLES*/
+
+.intro{
+  background-color: #1b262c;
+  color: #CCCCCC;
+}
